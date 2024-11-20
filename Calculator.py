@@ -1,3 +1,4 @@
+#Function to take in user inputs and do the calculation and return the results
 def calculator():
     print("Welcome to Brian's Calculator!")
     
